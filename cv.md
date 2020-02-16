@@ -3,8 +3,8 @@
 
 # Contact Info
 
-+Phone: +375 256211636
-+Email: mamtysman@gmail.com
++ Phone: +375 256211636
++ Email: mamtysman@gmail.com
 
 # Skills
 
