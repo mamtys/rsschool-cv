@@ -1,0 +1,25 @@
+.text,
+.text-base,
+.text-header {
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+.text-base {
+    font-size: 19px;
+
+    color: rgb(134, 116, 86);
+}
+
+.text-header {
+    font-size: 20px;
+    font-weight: 600;
+
+    color: rgb(149, 112, 53);
+}
+
+.text-subheader {
+    font-size: 17px;
+    font-weight: 600;
+
+    color: rgb(149, 112, 53);
+}

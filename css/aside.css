@@ -1,0 +1,25 @@
+.aside-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+
+  padding: 0 1.5rem;
+  flex-grow: 3;
+  max-width: 300px;
+  box-sizing: border-box;
+
+  background-color:  rgb(128, 86, 31);
+  box-shadow:  rgba(116, 79, 30, 0.5) -2px 0 2px 0;
+  color: rgb(255, 255, 255);
+}
+
+.aside-text {
+  color: rgb(255, 255, 255);
+}
+
+.aside-header {
+  font-size: 20px;
+  font-weight: 600;
+
+  color: rgb(255, 255, 255);
+}
